@@ -1,6 +1,7 @@
 # blog-images
 静态图片
 ## 烟花点击效果
+代码来源：https://www.onesrc.cn/p/add-a-fireworks-click-effect-to-your-website.html
 https://cdn.jsdelivr.net/gh/kaygb/blog-images/fireworks.js
 ### 同步加载
 ~~~html
