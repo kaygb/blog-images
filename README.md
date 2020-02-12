@@ -1,5 +1,5 @@
 # blog-images
-静态图片
+img文件夹内是博客的静态图片，别的JS引用在下面
 ## 烟花点击效果
 代码来源：https://www.onesrc.cn/p/add-a-fireworks-click-effect-to-your-website.html
 https://cdn.jsdelivr.net/gh/kaygb/blog-images/fireworks.js
@@ -7,7 +7,7 @@ https://cdn.jsdelivr.net/gh/kaygb/blog-images/fireworks.js
 ~~~html
 <script src="//cdn.jsdelivr.net/gh/kaygb/blog-images/fireworks.js"></script>
 ~~~
-### JS监听加载
+### JS监听加载（测试）
 ~~~html
 <script>
 window.onload = function() {
