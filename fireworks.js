@@ -1,4 +1,7 @@
 /*
+*名称：网站烟花点击效果
+*作者：ONESRC
+*博客：https://www.onesrc.cn/
 *来源：https://www.onesrc.cn/p/add-a-fireworks-click-effect-to-your-website.html
 */
 function clickEffect() {
